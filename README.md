@@ -42,3 +42,10 @@ DIMENSIONALITY REDUCTION
 - Principal Component Analysis
 - Linear Discrimant Analysis
 - Kernel PCA
+
+## Certificate
+
+![Certificate]( https://github.com/sen1997susmit/Machine-Learning-A-Z/blob/main/a%20to%20z%20ML.jpg)
+
+ > [Verified Certificate]( https://github.com/sen1997susmit/Machine-Learning-A-Z/blob/main/a%20to%20z%20ML.pdf)
+
